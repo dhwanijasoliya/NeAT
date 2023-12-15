@@ -4,7 +4,7 @@ version: "3.9"
 services:
   neat:
     container_name: neat
-    image: fidoriel/neat
+    image: dhwanijasoliya/neat
     build:
       context: .
       dockerfile: Dockerfile
